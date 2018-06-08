@@ -1,5 +1,8 @@
 /* below are styles for the index page */
-
+#table_data{
+    font-size:20px;
+    color:blue;
+}
 #headerPanel{
     background-color:black;
 }
